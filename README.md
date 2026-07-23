@@ -1,4 +1,4 @@
-# Competitive Programming and Problem Solving
+# Problem Solving
 
 ## Overview
 
@@ -11,7 +11,7 @@ Problems are organized by platform to make the repository easy to navigate and m
 ## Repository Structure
 
 ```
-Competitive-Programming-and-Problem-Solving
+Problem-Solving
 │
 ├── Codeforces
 ├── LeetCode
