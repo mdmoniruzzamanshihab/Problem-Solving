@@ -4,7 +4,7 @@
 
 This repository contains solutions to programming problems from various competitive programming problem solving and coding interview platforms. It reflects my journey of improving problem-solving skills, algorithmic thinking, and coding efficiency through consistent practice.
 
-Problems are organized by platform to make the repository easy to navigate and maintain.
+Problems are organized by platform to make the repository efficient to navigate and maintain.
 
 ---
 
