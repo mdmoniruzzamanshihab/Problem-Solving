@@ -30,11 +30,7 @@ Solutions to competitive programming contests and practice problems.
 
 Solutions to coding interview and algorithmic problems.
 
-### CodeChef
 
-Solutions to contests and practice problems covering different difficulty levels.
-
----
 
 
 
