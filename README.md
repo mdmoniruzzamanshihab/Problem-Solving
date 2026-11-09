@@ -47,6 +47,6 @@ Solutions to coding interview and algorithmic problems.
 
 ## Progress
 
-This repository is updated as I solve new problems and continue my competitive programming journey.
+This repository is updated as I solve new problems and continue competitive programming journey.
 
 Thank you!
