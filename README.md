@@ -49,4 +49,4 @@ Solutions to coding interview and algorithmic problems.
 
 This repository is updated as I solve new problems and continue competitive programming journey.
 
-Thank you!
+Thank you.
